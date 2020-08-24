@@ -43,9 +43,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
   <img align="left" alt="Mis estadísticas" src="https://github-readme-stats.jofaval.vercel.app/api?username=jofaval&show_icons=true&hide_border=true" />
 
 </details>
