@@ -1,58 +1,45 @@
-### Hola, Soy Pepe - o [jofaval][website] 👋
+# Pepe Fabra Valverde
+Soy **Desarrollador Web** y de **Software**, localizado en **Valencia**.
 
-[![Website](https://img.shields.io/website?label=nopee.com&style=for-the-badge&url=https%3A%2F%2Fnopee.com)](https://nopee.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nopee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+## Experiencia
+He estado trabajando en prácticas **6 meses como programador**, de los cuales 3, fueron en el **campo de la arquitectura (BIM)** (*implementando estándares, consultando información sobre modelos 3D, generando informes contables en base a estos*).
 
-## Características
+Llevo desde el 03/2020 trabajando en **Orca Sistemas** como **Desarrollador Web** principalmente, son en su *totalidad proyectos privados cuyo código no puedo compartir*, pero sí que puedo enumarar las funciones y detalles vagos de las funciones.
+### Funciones dentro de **Orca Sistemas**:
+1. Desarrollando y desplegando **E-Commerce** en **Prestashop** y **WooCommerce**.
+2. Trabajando en **módulos/plugins** tanto para **Prestashop** como para **Wordpress**.
+3. Colaboración en proyectos grupales.
+4. Desarrollo de proyectos de manera individual.
+5. Gestión de proyectos de cierta envergadura.
+6. Tutorizando alumnos de **FCT**s.
+7. Organizando y planificando proyectos con **Trello**.
+8. Documentando proyectos y funcionalidades.
 
-- 🔭 Bla bla bla - La comunidad del anillo
-- 🌱 Bla bla bla - Las dos torres
-- 👯 Bla bla bla - El retorno del rey
-- 🥅 Bla bla - Un viaje de ida y vuelta
-- ⚡ Bla bla Bla - El Silmarillion
+## Lenguajes de programación
+  * **PHP**, tengo 5 años de experiencia desarrollando, tanto páginas web, como aplicaciones web sin interfaz de usuario, más un **TFCGS** (<https://github.com/jofaval/tfcgs-daw>).
+    * **Laravel**, 1 año de experiencia en distintos proyectos.
+      * Un proyecto de ciencia de datos desarrollado mayoritariamente con **Laravel**, haciendo uso de **blades**.
+    * **Templates (Smarty)**, 2 años, generalmente usado con Prestashop.
+    * También algo de experiencia generando mis frameworks adaptados a mi manera de trabajo/necesidades del proyecto.
+  * **JS**, tengo 5 años de experiencia
+  * **C#**, tengo 4 años de experiencia, desarrollando, aplicaciones de escritorio y utilidades, más un **TFCGS** (<https://github.com/jofaval/tfcgs-dam>).
+    * **Entity Framework**, 1 año y medio de experiencia, Usado en el **TFCGS** y en las prácticas de arquitectura.
+    * **LinQ** 1 año y medio de experiencia, Usado en el **TFCGS** y en las prácticas de arquitectura.
+  * **Java**, tengo 3 años de experiencia desarrollando aplicaciones en Java y servicios.
+  * **Python**, tengo 3 años de experiencia, lo he usado para:
+    * **WebScrapping** y descargar información que de otra manera habría supuesto una gran inversión de tiempo.
+      * Realizado en **Moodle**.
+      * En **Twinkl**, (aunque tienen ciertas restricciones entre peticiones).
+      * Descargando tablas de una página y parseandolas a **CSV**.
+    * Procesamiento de vídeos con el uso de librerías.
+    * Generación y automatización de archivos con estructuras, por ejemplo, colecciones de **POSTMAN**, estructuras de ficheros de un proyecto.
+    * Desarrollar un **BulkDownloader** dadas unas **URL**s.
+    * Desarrollar un script para descargar **70k imágenes** (cada una sobre un producto diferente) de **Google** en menos de **15 horas** (*la descarga*).
 
-### Connect with me:
-
-[<img align="left" alt="Nope.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Nope | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Nope | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Nope | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Nope | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-<!-- ### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] -->
-
-<br />
-<br />
-
-  <img align="left" alt="Mis estadísticas" src="https://github-readme-stats.jofaval.vercel.app/api?username=jofaval&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://nopee.com
-[twitter]: https://nope.com/nopee
-[youtube]: https://nope.com/nopee
-[instagram]: https://nope.com/nopee
-[linkedin]: https://linkedin.com/in/nopee
-[webdevplaylist]: https://www.nope.com
-[jsplaylist]: https://www.nope.com
-[cssplaylist]: https://www.nope.com
-[reactplaylist]: https://www.nope.com
+## BBDD
+Tengo experiencia en el uso de **Bases de Datos**, tanto en la estructura, como *creación/comprensión* de **Diagramas EER**, como en el análisis.
+He trabajado principalmente con **SQL** y el motor **MySQL**, aunque también con **TSQL** y **SQL Server** para **.NET**, tengo experiencia con **BDD**s **NoSQL** como lo son **MongoDB** y **Firebase**.
+  * Con **SQL** usando el motor **MySQL**, utilizando **Java**, implementé una aplicación por **CMD** para *implementar las operaciones **CRUD** sobre cualquier **BDD***. utilizado también en mi **TFCGS** de **DAW** (<https://github.com/jofaval/tfcgs-daw>), y múltiples proyectos *personales/privados*.
+  * Con **TSQL** usando el motor **SQL Server**, utilizando **C#** haciendo suo también de **Entity Framework** y **LinQ**, realicé mi **TFCGS** de **DAM** <https://github.com/jofaval/tfcgs-dam>.
+  * Con **MongoDB** realicé una aplicación en **C#** para *implementar las operaciones **CRUD** sobre cualquier **BDD***.
+  * **Firebase** lo integré en una aplicación sencilla con **Android**.
