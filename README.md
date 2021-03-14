@@ -8,7 +8,7 @@ Llevo desde el 03/2020 trabajando en **Orca Sistemas** como **Desarrollador Web*
 ### Funciones dentro de **Orca Sistemas**:
 1. Desarrollando y desplegando **E-Commerce** en **Prestashop** y **WooCommerce**.
 2. Trabajando en **módulos/plugins** tanto para **Prestashop** como para **Wordpress**.
-3. Colaboración en proyectos grupales.
+3. Colaboración en proyectos de equipo.
 4. Desarrollo de proyectos de manera individual.
 5. Gestión de proyectos de cierta envergadura.
 6. Tutorizando alumnos de **FCT**s.
@@ -21,7 +21,9 @@ Llevo desde el 03/2020 trabajando en **Orca Sistemas** como **Desarrollador Web*
       * Un proyecto de ciencia de datos desarrollado mayoritariamente con **Laravel**, haciendo uso de **blades**.
     * **Templates (Smarty)**, 2 años, generalmente usado con Prestashop.
     * También algo de experiencia generando mis frameworks adaptados a mi manera de trabajo/necesidades del proyecto.
-  * **JS**, tengo 5 años de experiencia
+  * **Javascript**, tengo 5 años de experiencia en interacción de usuario y AJAX, implementaciones de estándares y optimización. Desarrollo de pseudo-frameworks para las necesidades del proyecto.
+    * **React**, Desarrollo de componentes en un proyectos de equipo.
+    * **React Native**, Implementación y actualización de componentes en aplicaciones de **Android**.
   * **C#**, tengo 4 años de experiencia, desarrollando, aplicaciones de escritorio y utilidades, más un **TFCGS** (<https://github.com/jofaval/tfcgs-dam>).
     * **Entity Framework**, 1 año y medio de experiencia, Usado en el **TFCGS** y en las prácticas de arquitectura.
     * **LinQ** 1 año y medio de experiencia, Usado en el **TFCGS** y en las prácticas de arquitectura.
