@@ -15,6 +15,14 @@ Llevo desde el 03/2020 trabajando en **Orca Sistemas** como **Desarrollador Web*
 7. Organizando y planificando proyectos con **Trello**.
 8. Documentando proyectos y funcionalidades.
 
+## BBDD
+Tengo experiencia en el uso de **Bases de Datos**, tanto en la estructura, como *creación/comprensión* de **Diagramas EER**, como en el análisis.
+He trabajado principalmente con **SQL** y el motor **MySQL**, aunque también con **TSQL** y **SQL Server** para **.NET**, tengo experiencia con **BDD**s **NoSQL** como lo son **MongoDB** y **Firebase**.
+  * Con **SQL** usando el motor **MySQL**, utilizando **Java**, implementé una aplicación por **CMD** para *implementar las operaciones **CRUD** sobre cualquier **BDD***. utilizado también en mi **TFCGS** de **DAW** (<https://github.com/jofaval/tfcgs-daw>), y múltiples proyectos *personales/privados*.
+  * Con **TSQL** usando el motor **SQL Server**, utilizando **C#** haciendo suo también de **Entity Framework** y **LinQ**, realicé mi **TFCGS** de **DAM** <https://github.com/jofaval/tfcgs-dam>.
+  * Con **MongoDB** realicé una aplicación en **C#** para *implementar las operaciones **CRUD** sobre cualquier **BDD***.
+  * **Firebase** lo integré en una aplicación sencilla con **Android**.
+
 ## Lenguajes de programación
   * **PHP**, tengo 5 años de experiencia desarrollando, tanto páginas web, como aplicaciones web sin interfaz de usuario, más un **TFCGS** (<https://github.com/jofaval/tfcgs-daw>).
     * **Laravel**, 1 año de experiencia en distintos proyectos.
@@ -37,11 +45,3 @@ Llevo desde el 03/2020 trabajando en **Orca Sistemas** como **Desarrollador Web*
     * Generación y automatización de archivos con estructuras, por ejemplo, colecciones de **POSTMAN**, estructuras de ficheros de un proyecto.
     * Desarrollar un **BulkDownloader** dadas unas **URL**s.
     * Desarrollar un script para descargar **70k imágenes** (cada una sobre un producto diferente) de **Google** en menos de **15 horas** (*la descarga*).
-
-## BBDD
-Tengo experiencia en el uso de **Bases de Datos**, tanto en la estructura, como *creación/comprensión* de **Diagramas EER**, como en el análisis.
-He trabajado principalmente con **SQL** y el motor **MySQL**, aunque también con **TSQL** y **SQL Server** para **.NET**, tengo experiencia con **BDD**s **NoSQL** como lo son **MongoDB** y **Firebase**.
-  * Con **SQL** usando el motor **MySQL**, utilizando **Java**, implementé una aplicación por **CMD** para *implementar las operaciones **CRUD** sobre cualquier **BDD***. utilizado también en mi **TFCGS** de **DAW** (<https://github.com/jofaval/tfcgs-daw>), y múltiples proyectos *personales/privados*.
-  * Con **TSQL** usando el motor **SQL Server**, utilizando **C#** haciendo suo también de **Entity Framework** y **LinQ**, realicé mi **TFCGS** de **DAM** <https://github.com/jofaval/tfcgs-dam>.
-  * Con **MongoDB** realicé una aplicación en **C#** para *implementar las operaciones **CRUD** sobre cualquier **BDD***.
-  * **Firebase** lo integré en una aplicación sencilla con **Android**.
