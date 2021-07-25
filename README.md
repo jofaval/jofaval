@@ -2,18 +2,7 @@
 Soy **Desarrollador Web** y de **Software**, localizado en **Valencia**.
 
 ## Experiencia
-He estado trabajando en prácticas **6 meses como programador**, de los cuales 3, fueron en el **campo de la arquitectura (BIM)** (*implementando estándares, consultando información sobre modelos 3D, generando informes contables en base a estos*).
-
-Llevo desde el 03/2020 trabajando en [**Orca Sistemas**](https://orca.es) como **Desarrollador Web** principalmente, son en su *totalidad proyectos privados cuyo código no puedo compartir*, pero sí que puedo enumarar las funciones y detalles vagos de las funciones.
-### Funciones dentro de [**Orca Sistemas**](https://orca.es):
-1. Desarrollando y desplegando **E-Commerce** en **Prestashop** y **WooCommerce**.
-2. Trabajando en **módulos/plugins** tanto para **Prestashop** como para **Wordpress**.
-3. Colaboración en proyectos de equipo.
-4. Desarrollo de proyectos de manera individual.
-5. Gestión de proyectos de cierta envergadura.
-6. Tutorizando alumnos de **FCT**s.
-7. Organizando y planificando proyectos con **Trello**.
-8. Documentando proyectos y funcionalidades.
+Para más información visita mi [LinkedIn](https://www.linkedin.com/in/pepe-fabra-valverde-15b94617a/).
 
 ## BBDD
 Tengo experiencia en el uso de **Bases de Datos**, tanto en la estructura, como *creación/comprensión* de **Diagramas EER**, como en el análisis.
