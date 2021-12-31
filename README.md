@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pepe Fabra Valverde</h1>
 <h3 align="center">A FullStack Developer with a passion for Frontend from Valencia</h3>
 
-[![Extended in English](https://img.shields.io/badge/lang-en-blue.svg)](/lang/jofaval.en.md)
-[![Extendido en Castellano](https://img.shields.io/badge/lang-es-red.svg)](/lang/jofaval.es.md)
+[![Extended in English](https://img.shields.io/badge/lang-en-blue.svg)](./lang/jofaval.en.md)
+[![Extendido en Castellano](https://img.shields.io/badge/lang-es-red.svg)](./lang/jofaval.es.md)
 
 - 🌱 I’m currently learning **Machine Learning & Artificial Intelligence, Django**
 
