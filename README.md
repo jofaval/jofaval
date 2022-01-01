@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & Artificial Intelligence, Django**
 
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/jofaval?tab=repositories), or take a look at [my story](https://stackoverflow.com/story/jofaval).
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/jofaval?tab=repositories), or take a look at [my story](https://stackoverflow.com/story/jofaval)
 
 - 💬 Ask me about **react.js, javascript, typescript, nodejs**
 
