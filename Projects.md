@@ -32,8 +32,8 @@ Further description about each project can be found in the project's repository'
 
 ## Data Analysis/Machine Learning
 
-- [Data Portfolio](https://github.com/jofaval/mlai-portfolio)
 - [Final Project Master's Degree](https://github.com/jofaval/tfm-iabd)
+- [Data Portfolio](https://github.com/jofaval/mlai-portfolio)
 
 ### Data Mining
 
