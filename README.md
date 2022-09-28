@@ -2,6 +2,10 @@
 
 I'm a Senior Frontend Engineer with a lot of way ahead in my Software Engineering journey, I've studied also Data Science (non-professionally). This is my personal Github, where I like to try some stuff out (new tech, architecture, concepts) and start projects I might never get the chance to finish (which is... healthy!).
 
+## Contact
+
+The easiest way to contact me is through my [LinkedIn](https://www.linkedin.com/in/jofaval)
+
 ## Projects
 
 ### Software Engineering
@@ -17,7 +21,3 @@ It's what I've done the most projects about, but I'm specially looking forward t
 Mostly analysis, visualizations and machine learning (a little bit of deep learning at times).
 
 [My Data Science projects on Github](https://github.com/jofaval?tab=repositories&q=&type=&language=jupyter+notebook&sort=), or simply checkout my [Kaggle profile](https://www.kaggle.com/jofaval)
-
-## Contact
-
-The easiest way to contact me is through my [LinkedIn](https://www.linkedin.com/in/jofaval)
