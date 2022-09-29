@@ -1,6 +1,6 @@
 <h1 align="center">Hi!! 👋 I'm Pepe Fabra Valverde</h1>
 
-I'm a Senior Frontend Engineer with a lot of way ahead in my Software Engineering journey, I've studied also Data Science (non-professionally). This is my personal Github, where I like to try some stuff out (new tech, architecture, concepts) and start projects I might never get the chance to finish (which is... healthy!).
+I'm a Senior Frontend Engineer with a lot of way ahead in my Software Engineering journey, I've also studied Data Science (non-professionally). This is my personal Github, where I like to try some stuff out (new tech, architecture, concepts) and start projects I might never get the chance to finish (which is... healthy!).
 
 ## Contact
 
