@@ -15,6 +15,11 @@ Not methodical, not rigid, just an orientation
 - [ ] Inspired
 - [ ] Decisiones x DATOS
 - [ ] Software Architecture: The Hard Parts
+- [ ] The Engineering Leader - O'Reilly
+- [ ] Learning Systems Thinking - O'Reilly
+- [ ] The Staff's Engineering Path - O'Reilly
+- [ ] A Common Sense Guide into Data Structures and Algorithms
+- [ ] An Elegant Puzzle
 
 ## Courses
 
