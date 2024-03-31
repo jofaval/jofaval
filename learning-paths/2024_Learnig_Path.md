@@ -20,6 +20,11 @@ Not methodical, not rigid, just an orientation
 - [ ] The Staff's Engineering Path - O'Reilly
 - [ ] A Common Sense Guide into Data Structures and Algorithms
 - [ ] An Elegant Puzzle
+- [ ] Leaders Eat Last
+- [ ] Start with Why
+- [ ] Find your Why
+- [ ] Design for a Better World
+- [ ] Design is Storytelling
 
 ## Courses
 
@@ -44,6 +49,7 @@ Not methodical, not rigid, just an orientation
 - [ ] Azure Fundamentals
 - [ ] Azure AI Fundamentals
 - [ ] Azure Data Fundamentals
+- [ ] Mongo DB SI Architect (Generative AI)
 
 ## Talks to give
 
